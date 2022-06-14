@@ -1,11 +1,3 @@
-# Name:
-# OSU Email:
-# Course:       CS261 - Data Structures
-# Assignment:
-# Due Date:
-# Description:
-
-
 import random
 from static_array import *
 
